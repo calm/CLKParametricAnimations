@@ -1,0 +1,22 @@
+{
+  "name": "CLKParametricAnimations",
+  "version": "0.1.0",
+  "summary": "A short description of CLKParametricAnimations.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tsheaff/CLKParametricAnimations",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tsheaff": "ty.sheaffer@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tsheaff/CLKParametricAnimations.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CLKParametricAnimations/Classes/**/*"
+}

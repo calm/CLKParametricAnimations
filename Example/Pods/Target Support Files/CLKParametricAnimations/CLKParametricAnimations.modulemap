@@ -1,0 +1,6 @@
+framework module CLKParametricAnimations {
+  umbrella header "CLKParametricAnimations-umbrella.h"
+
+  export *
+  module * { export * }
+}

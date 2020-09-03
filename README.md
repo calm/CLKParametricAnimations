@@ -1,5 +1,7 @@
 # CLKParametricAnimations
 
+A nice iOS extension that gives CAKeyframeAnimation support for all of the complex easing curves found at http://easings.net
+
 [![CI Status](https://img.shields.io/travis/tsheaff/CLKParametricAnimations.svg?style=flat)](https://travis-ci.org/tsheaff/CLKParametricAnimations)
 [![Version](https://img.shields.io/cocoapods/v/CLKParametricAnimations.svg?style=flat)](https://cocoapods.org/pods/CLKParametricAnimations)
 [![License](https://img.shields.io/cocoapods/l/CLKParametricAnimations.svg?style=flat)](https://cocoapods.org/pods/CLKParametricAnimations)

@@ -1,0 +1,16 @@
+PODS:
+  - CLKParametricAnimations (0.1.0)
+
+DEPENDENCIES:
+  - CLKParametricAnimations (from `../`)
+
+EXTERNAL SOURCES:
+  CLKParametricAnimations:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CLKParametricAnimations: 9105a658a17a22f5e1e75d86227465d308265659
+
+PODFILE CHECKSUM: 3e13cf96ae94d5070c22a5211d5b8749c909e047
+
+COCOAPODS: 1.10.0.beta.2
