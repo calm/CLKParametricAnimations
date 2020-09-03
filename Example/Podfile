@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CLKParametricAnimations_Tests' do
+  pod 'CLKParametricAnimations', :path => '../'
+  
+  
+end
